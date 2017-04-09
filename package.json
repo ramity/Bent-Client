@@ -16,6 +16,10 @@
   ],
   "author": "GitHub",
   "license": "CC0-1.0",
+  "dependencies": {
+    "electron": "~1.6.2",
+    "phoria": "ramity/phoria.js"
+  },
   "devDependencies": {
     "electron": "~1.6.2"
   }

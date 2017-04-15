@@ -1,4 +1,4 @@
-serverUrl = 'ws://localhost:8000/status';
+serverUrl = 'ws://phb.uark.edu:8080/status';
 if (window.MozWebSocket) {
   socket = new MozWebSocket(serverUrl);
 } else if (window.WebSocket) {
